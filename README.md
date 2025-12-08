@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+# **Brooklyn Nine=nine**
+*Brooklyn Nine-Nine* is an American police procedural sitcom television series that aired on Fox, and later on NBC, from September 17, 2013 to September 16, 2021, for eight seasons and 153 episodes. Created by Dan Goor and Michael Schur, it revolves around seven New York City Police Department (NYPD) detectives who are adjusting to life under their new commanding officer, the serious and stern Captain **Raymond Holt (Andre Braugher)**. This sitcom features an ensemble cast of **Andy Samberg, Andre Braugher, Stephanie Beatriz, Terry Crews, Melissa Fumero, Joe Lo Truglio, Chelsea Peretti, Dirk Blocker, and Joel McKinnon Miller**.
